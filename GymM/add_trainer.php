@@ -1,3 +1,6 @@
+<!--Add trainer -->
+
+
 <?php
 
 require('db.php');
@@ -41,10 +44,6 @@ if (isset($_REQUEST['trainer'])) {
 
 ?>
 
-
-
-
-
 <div class="container">
 	<form class="mt-3 form-group" method="post" action="">
 		<h3>ADD TRAINER</h3>
@@ -52,7 +51,7 @@ if (isset($_REQUEST['trainer'])) {
     echo @$msg;
 
     ?>
-		<label class="mt-3">TRAINER ID</label>
+		<label class="mt-3"> TRAINER ID</label>
 		<input type="text" name="id" class="form-control">
 		<label class="mt-3">TRAINER NAME</label>
 		<input type="text" name="name" class="form-control">
