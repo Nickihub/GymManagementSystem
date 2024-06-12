@@ -1,3 +1,6 @@
+<!-- Delete payment -->
+
+
 <?php
 require('db.php');
 
