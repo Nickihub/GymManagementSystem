@@ -1,3 +1,5 @@
+<!--MANAGE GYM -->
+
 <div class="container">
 	<form class="form-group mt-3" method="post" action="home.php?info=gym_search">
 		<h3 class="lead">SEARCH GYM</h3>
