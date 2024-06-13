@@ -1,8 +1,7 @@
+<!-- Update trainer -->
+
 <?php
 require('db.php');
-
-
-
 
 
 if (isset($_REQUEST['trainer'])) {
