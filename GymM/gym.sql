@@ -1,3 +1,5 @@
+-- GYM
+
 -- phpMyAdmin SQL Dump
 -- version 4.9.1
 -- https://www.phpmyadmin.net/
@@ -24,7 +26,7 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
---
+--h
 -- Table structure for table `gym`
 --
 
