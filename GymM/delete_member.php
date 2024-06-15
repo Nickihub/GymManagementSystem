@@ -1,3 +1,5 @@
+<!-- Delete Member-->
+
 <?php
 require('db.php');
 
