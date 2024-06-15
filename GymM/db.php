@@ -1,3 +1,5 @@
+<!-- Db -->
+
 <?php
 $server="localhost";
 $username="root";
