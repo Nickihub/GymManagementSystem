@@ -1,3 +1,5 @@
+<!-- Delete gym -->
+
 <?php
 require('db.php');
 
