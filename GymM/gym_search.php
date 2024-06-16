@@ -1,3 +1,5 @@
+<!-- gym search -->
+
 <?php
 require('db.php');
 
