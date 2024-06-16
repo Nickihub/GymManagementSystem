@@ -1,5 +1,3 @@
-<!-- Delete Trainer -->
-
 <?php
 require('db.php');
 
